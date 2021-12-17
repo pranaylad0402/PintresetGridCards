@@ -1,14 +1,8 @@
-import React from 'react'
-import PinterestGridScreen from './Screens/PinterestGridScreen'
-
+import React from "react";
+import PinterestGridScreen from "./Screens/PinterestGridScreen";
 
 function App() {
-  return (
-      <PinterestGridScreen/>
-   
-  )
+  return <PinterestGridScreen />;
 }
 
-
-export default App
-
+export default App;

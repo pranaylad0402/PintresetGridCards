@@ -1,0 +1,20 @@
+export default {
+  GridCardConfig: [
+    { id: "1", size: "small" },
+    { id: "2", size: "medium" },
+    { id: "3", size: "large" },
+    { id: "4", size: "small" },
+    { id: "5", size: "small" },
+    { id: "6", size: "medium" },
+    { id: "7", size: "large" },
+    { id: "8", size: "small" },
+    { id: "9", size: "small" },
+    { id: "10", size: "medium" },
+    { id: "11", size: "large" },
+    { id: "12", size: "small" },
+    { id: "13", size: "small" },
+    { id: "14", size: "medium" },
+    { id: "15", size: "large" },
+    { id: "16", size: "small" },
+  ],
+};
