@@ -1,0 +1,15 @@
+.cardContainer {
+  margin: 15px;
+  padding: 0;
+  border-radius: 16px;
+  background-color: lightPink;
+}
+.small {
+  grid-row-end: span 16;
+}
+.medium {
+  grid-row-end: span 25;
+}
+.large {
+  grid-row-end: span 30;
+}

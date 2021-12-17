@@ -1,0 +1,11 @@
+.PinterestGridContainer {
+  margin: 0;
+  padding: 40px;
+  width: 80vw;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-46%);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 260px);
+  grid-auto-rows: 16px;
+}
